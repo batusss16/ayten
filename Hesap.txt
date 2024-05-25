@@ -1,0 +1,3 @@
+send /login baho123
+wait 3 seconds
+send /rebornskyblock
